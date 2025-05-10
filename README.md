@@ -44,17 +44,6 @@ A full-stack e-commerce platform built using the MERN stack. Designed to offer a
 ### 🧰 Tech Stack
 `MongoDB` · `Express.js` · `React.js` · `Node.js` · `Cloudinary` · `Razorpay`
 
----
-
-## 🧠 Additional Highlights
-
-- 🛠️ Refactored legacy React components, improving frontend performance by 20%.
-- 🤝 Collaborated using Agile practices and set up CI/CD pipelines with GitHub Actions.
-- 📚 Contributed to 3+ open-source projects; mentored juniors in Git and component-based development.
-- 🏆 Finalist at XYZ Hackathon 2024: Built a voice-enabled budgeting tool using Dialogflow.
-
----
-
 > Check out the repositories below for source code, demo links, and detailed documentation.
 
 - 🔗 [Expense Tracker Repo](https://github.com/sparshj94/expense-tracker)
