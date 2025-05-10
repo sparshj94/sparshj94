@@ -49,4 +49,4 @@ A full-stack e-commerce platform built using the MERN stack. Designed to offer a
 - 🔗 [Expense Tracker Repo](https://github.com/sparshj94/expense-tracker)
 - 🔗 [E-Commerce Web App Repo](https://github.com/sparshj94/ecommerce-webapp)
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sparshjain93/) or explore more on [sparshjain.tech](https://www.sparshjain.tech).
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sparshjain93/)
