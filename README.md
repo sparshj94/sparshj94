@@ -15,8 +15,8 @@ I'm a driven Software developer specializing in building robust, scalable, and u
 
 | Project                | Stack / Tech                           | Impact / Highlights                                                     | Repo Link                                                   |
 |------------------------|----------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------|
-| Expense Tracker App    | Spring Boot · React Native · MySQL · Apache Kafka · JWT · AWS · Docker  | Microservices-based,  Higher fault tolerance, real-time analytics, 80% automation of data entry | [View Repo](https://github.com/sparshj94/expense-tracker)   |
-| E-Commerce Web App     | MongoDB · Express.js · React.js · Node.js · Cloudinary · Razorpay      | Scalable to users, 40% faster image load, 98% payment success, role-based access | [View Repo](https://github.com/sparshj94/ecommerce-webapp)  |
+| Expense Tracker App    | Spring Boot · React Native · MySQL · Apache Kafka · JWT · AWS · Docker  | Microservices-based,  Higher fault tolerance, real-time analytics, 80% automation of data entry | [View Repo](https://github.com/sparshj94/AuthService)   |
+| E-Commerce Web App     | MongoDB · Express.js · React.js · Node.js · Cloudinary · Razorpay      | Scalable to users, 40% faster image load, 98% payment success, role-based access | [View Repo](https://github.com/sparshj94/ecomm_backend)  |
 
 ## 🌱 Open Source & Goals
 
