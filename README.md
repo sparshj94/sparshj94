@@ -1,52 +1,41 @@
-# 💼 Sparsh Jain's Featured Projects
+# 👋 Hi, I'm Sparsh Jain
 
-Welcome to my project showcase! I specialize in building robust, scalable, and user-focused web applications. Below are two of my key projects that highlight my experience with microservices, full-stack development, cloud technologies, and performance optimization.
+I'm a driven Software developer specializing in building robust, scalable, and user-focused web applications. I have hands-on experience with both backend and frontend technologies, working with modern stacks, cloud infrastructure, and a passion for creating solutions that drive impact. Currently, I am beginning my journey into open source and aiming to soon contribute to the broader tech community.
 
----
+## 🛠️ Skills & Tech Stack
 
-## 📊 Expense Tracker App
+- **Languages:** JavaScript, Java, PHP, SQL
+- **Frameworks & Libraries:** React, Node.js, Express, Spring Boot
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools & Platforms:** Git, Docker, AWS EC2, Apache Kafka, Cloudinary, Razorpay
+- **Dev Practices:** Secure authentication, REST APIs, microservices architecture, analytics, cloud deployment
+- **Interests:** Open Source, WordPress, SaaS, Microservices, Scalable Backend, UI/UX
 
-A scalable and secure expense tracker built with microservices architecture. Designed for personal finance management with real-time data insights.
+## 🚀 Featured Projects
 
-### 🚀 Key Features
-- 🔐 **Secure Authentication** – Spring Security and JWT to protect user sessions.
-- 📊 **Real-Time Analytics** – Integrated Mistral AI API to automate data extraction and generate instant insights (80% reduction in manual data entry).
-- ⚙️ **Microservices Architecture** – Spring Boot-based services with Apache Kafka for event-driven communication.
-- ☁️ **Cloud Deployment** – Hosted on AWS EC2 and RDS ensuring 24/7 uptime with auto-recovery.
-- 🐳 **Dockerized Environment** – Full containerization for smooth cross-environment deployment.
+| Project                | Stack / Tech                           | Impact / Highlights                                                     | Repo Link                                                   |
+|------------------------|----------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------|
+| Expense Tracker App    | Spring Boot · React Native · MySQL · Apache Kafka · JWT · AWS · Docker  | Microservices-based,  Higher fault tolerance, real-time analytics, 80% automation of data entry | [View Repo](https://github.com/sparshj94/expense-tracker)   |
+| E-Commerce Web App     | MongoDB · Express.js · React.js · Node.js · Cloudinary · Razorpay      | Scalable to users, 40% faster image load, 98% payment success, role-based access | [View Repo](https://github.com/sparshj94/ecommerce-webapp)  |
 
-### 📈 Impact
-- Improved fault tolerance by 50% through modular service isolation.
-- Reduced latency by 30% using Kafka queues.
-- Enhanced productivity via automated insights and dashboards.
+## 🌱 Open Source & Goals
 
-### 🧰 Tech Stack
-`Spring Boot` · `React Native` · `MySQL` · `Apache Kafka` · `JWT` · `AWS EC2` · `Docker`
+- **Currently Learning:**  
+  - Open source contribution workflow (forking, branching, pull requests)
+  - WordPress, PHP repositories, and collaborative coding practices
 
----
+- **Goals:**  
+  - Submit my first open source PRs, starting with documentation, test cases, or beginner-friendly issues
+  - Grow as a contributor within the WordPress and open source community
 
-## 🛒 E-Commerce Web App
+## 🏆 Achievements & Interests
 
-A full-stack e-commerce platform built using the MERN stack. Designed to offer a seamless shopping experience with secure transactions and admin management features.
+- **Built and deployed production-ready microservices and cloud-native apps**
+- **Keen interest in fintech, SaaS products, and scalable architectures**
+- **Actively improving communication, technical documentation, and collaboration skills**
 
-### 🚀 Key Features
-- 🛍️ **Product Showcase** – ReactJS-based frontend with modern UI and responsive design.
-- 🔐 **User Authentication** – Role-based access control and secure login implementation.
-- 💳 **Payment Integration** – Razorpay integration for real-time, secure transactions.
-- ☁️ **Image Hosting** – Optimized media delivery using Cloudinary.
-- 📦 **Admin Dashboard** – For managing products, orders, and users efficiently.
+## 📫 Let's Connect
 
-### 📈 Impact
-- Scaled to support 500+ concurrent users with sub-second response times.
-- Reduced image load time by 40% with Cloudinary.
-- Achieved 98% successful transaction rate with Razorpay.
+[LinkedIn](https://www.linkedin.com/in/sparshjain93/)
 
-### 🧰 Tech Stack
-`MongoDB` · `Express.js` · `React.js` · `Node.js` · `Cloudinary` · `Razorpay`
-
-> Check out the repositories below for source code, demo links, and detailed documentation.
-
-- 🔗 [Expense Tracker Repo](https://github.com/sparshj94/expense-tracker)
-- 🔗 [E-Commerce Web App Repo](https://github.com/sparshj94/ecommerce-webapp)
-
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sparshjain93/)
+*Thanks for visiting my GitHub! Check out the repositories above for details, demos, and source code. Open to collaboration and new opportunities.*
